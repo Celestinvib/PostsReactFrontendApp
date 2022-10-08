@@ -1,6 +1,6 @@
 # PostsReactFrontendApp
 ## 📑 About
-Built with [React](https://es.reactjs.org/) v16.5.2 & deployed in <a href="https://aws.amazon.com/es/amplify/"> AWS Amplify</a>.<br><br>
+Built with [React](https://es.reactjs.org/) v16.5.2 & deployed in <a href="https://aws.amazon.com/es/amplify/"> AWS Amplify</a>.<br>
 
 I modified this app because i needed a basic frontend app for my Nodejs REST API but I didn't create it, <br>
 the creator is Maximilian Schwarzmüller and he give the code in it's Udemy Course [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)  
