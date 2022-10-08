@@ -1,15 +1,21 @@
 # PostsReactFrontendApp
 ## 📑 About
-Built with [React](https://es.reactjs.org/) v16.5.2 & deployed in <a href="https://aws.amazon.com/es/amplify/"> AWS Amplify</a>.<br>
+The best comunity posts of the web!<br>
+
+Dummy API frontend built with [React](https://es.reactjs.org/) v16.5.2 & deployed in <a href="https://aws.amazon.com/es/amplify/"> AWS Amplify</a>.<br>
 
 I modified this app because i needed a basic frontend app for my Nodejs REST API but I didn't create it, <br>
-the creator is Maximilian Schwarzmüller and he give the code in it's Udemy Course [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)  
+the creator is Maximilian Schwarzmüller and he give the code in it's Udemy Course [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)<br>
+
+Deploy done by doing a build <i>npm run build</i> & uploading the created folder (result in the branch deploy).
 
 ## ⚙Features 
 * Basic CRUD + Personalized functions
 * Pagination
+* WebSocket
 
 #### Security: 
+* JWT
 * Restricted CRUD by its owner 
 * Secured User data
 
