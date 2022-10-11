@@ -39,7 +39,7 @@ Deploy done by doing a build <i>npm run build</i> & uploading the created folder
 
 ## 🚀 ¿Want to check the app? (deploy):
   * Create an user yourself and log in!<br>
- ·CheapTrip: https://deploy.d252wdunpl8dsh.amplifyapp.com/ <br><br>
+ ·Web: https://deploy.d252wdunpl8dsh.amplifyapp.com/ <br><br>
   
  
  
